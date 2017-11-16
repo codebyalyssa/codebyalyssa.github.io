@@ -1,0 +1,36 @@
+body {
+    background-color:#B9E4F3;
+}
+h2 {
+    Text-align: center;
+    font-family: 'Amatic SC', cursive; 
+    font-size: 2em 
+}
+ul {
+    padding: 10px;
+    background: #FFFFFF;
+}
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+  }
+header {
+    Text-align: center;
+    color: rgba(255, 255, 255, 0.99);
+	background-image: url("https://i.stack.imgur.com/p9mUO.jpg");
+	background-size: cover;
+	padding:20px 0px 0px 0px;
+}
+h1 {
+    font-size: 3em;
+    Text-align: center;
+}
+#header-pic {
+    margin: 40px 0px 0px 0px;
+    border: 7px solid white;
+}
+article {
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+}
